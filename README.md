@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Most of my side projects go here, but I also maintain a "Cloud Lab" for messing around with multi-cloud and infrastructure-as-code things at https://github.com/telliott-io.
+
+A few other places you can find me are [Twitter](https://twitter.com/theotherelliott), and [Medium](https://medium.com/average-coder). 
+
 <!--
 **theothertomelliott/theothertomelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
