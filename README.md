@@ -4,8 +4,6 @@ Most of my side projects go here, but I also maintain a "Cloud Lab" for messing 
 
 A few other places you can find me are [Twitter](https://twitter.com/theotherelliott), and [Medium](https://medium.com/average-coder). 
 
-### GitHub Stats
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=theothertomelliott)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
