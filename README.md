@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Most of my side projects go here, but most of my time is currently spent on [Ocuroot](https://www.ocuroot.com/), a new CI/CD tool I've been building out to help enterprises manage environment and microservice sprawl.
+My side projects go here, but most of my time is currently spent on [Ocuroot](https://www.ocuroot.com/), a new CI/CD tool I've been building out to help enterprises manage environment and microservice sprawl.
 
 I also maintain a weekly Substack, [The Friday Deploy](https://thefridaydeploy.substack.com/).
 
