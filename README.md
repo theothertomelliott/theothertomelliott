@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Most of my side projects go here, but I also maintain a "Cloud Lab" for messing around with multi-cloud and infrastructure-as-code things at https://github.com/telliott-io.
+Most of my side projects go here, but most of my time is currently spent on [Ocuroot](https://www.ocuroot.com/), a new CI/CD tool I've been building out to help enterprises manage environment and microservice sprawl.
 
-A few other places you can find me are [Twitter](https://twitter.com/theotherelliott), and [Medium](https://medium.com/average-coder). 
+I also maintain a weekly Substack, [The Friday Deploy](https://thefridaydeploy.substack.com/).
 
 <!--
 **theothertomelliott/theothertomelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
