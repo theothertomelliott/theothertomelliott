@@ -2,7 +2,7 @@
 
 My side projects go here, but most of my time is currently spent on [Ocuroot](https://www.ocuroot.com/), a new CI/CD tool I've been building out to help enterprises manage environment and microservice sprawl.
 
-I also maintain a weekly Substack, [The Friday Deploy](https://thefridaydeploy.substack.com/).
+I also maintain a bi-weekly Substack, [The Friday Deploy](https://thefridaydeploy.substack.com/).
 
 <!--
 **theothertomelliott/theothertomelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
