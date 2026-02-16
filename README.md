@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My side projects go here, but most of my time is currently spent on [Ocuroot](https://www.ocuroot.com/), a new CI/CD tool I've been building out to help enterprises manage environment and microservice sprawl.
+Great to meet you! I'm Tom Elliott, a software developer and sometime public speaker based in New York.
 
-I also maintain a bi-weekly Substack, [The Friday Deploy](https://thefridaydeploy.substack.com/).
+Since joining the industry in 2007, I've had the good fortune to work in a number of different areas, including enterprise VDI, VPN clients, mobile apps and SaaS applications. In recent years, I've found my niche and passion in DevOps.
+
+I blog regularly at [telliott.me](https://telliott.me) about CI/CD, DevOps and other software engineering concerns.
 
 <!--
 **theothertomelliott/theothertomelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
